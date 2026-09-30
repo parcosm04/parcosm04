@@ -1,25 +1,25 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    PANKAJ PANDIT • GITHUB                      -->
-
+<!--                       PANKAJ PANDIT                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C3AED,100:FF4D6D&height=180&section=header&text=PANKAJ%20PANDIT&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20%7C%20Digital%20Design%20%7C%20IoT&descAlignY=62&descSize=18&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C3AED,100:FF4D6D&height=190&section=header&text=PANKAJ%20PANDIT&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20%7C%20Digital%20Design%20%7C%20IoT&descAlignY=63&descSize=18&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=760&lines=Hardware+%2B+Firmware+%2B+Digital+Logic;Building+Systems+That+Interact+With+The+Real+World;ESP32+%7C+VHDL+%7C+Verilog+%7C+RISC-V;Design+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Iterate" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=Hardware+%2B+Firmware+%2B+RTL;ESP32+%7C+Verilog+%7C+VHDL+%7C+RISC-V;Building+Systems+That+Interact+With+The+Real+World;Design+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Iterate"/>
 
 <br>
 
 <a href="https://github.com/parcosm04">
-<img src="https://img.shields.io/badge/GitHub-parcosm04-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-parcosm04-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/pankaj-pandit-96b952318/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
+
+---
 
 <div align="center">
 
@@ -31,7 +31,8 @@
 
 **Embedded Systems · Digital Design · IoT · Hardware**
 
-I work at the boundary between physical hardware and digital systems from sensors and microcontrollers to RTL, processor datapaths and
+I work at the boundary between physical hardware and digital systems —
+from sensors and microcontrollers to RTL, processor datapaths and
 communication interfaces.
 
 <br>
@@ -52,241 +53,248 @@ communication interfaces.
 
 ### `RISC-V PROCESSOR`
 
-`RV32I` · `RTL` · `VERILOG` · `VHDL` · `DATAPATH` · `CONTROL` · `PIPELINE`
+`RV32I` · `RTL` · `VERILOG` · `DATAPATH` · `CONTROL` · `PIPELINE`
 
 <br>
 
-| 🔹 CURRENT | 🔸 EXPLORING | 🚀 NEXT |
-|:---:|:---:|:---:|
-| RISC-V | FPGA | RTL Verification |
-| Embedded | DSP | Processor Design |
-| IoT | Digital Design | Hardware/Software Co-design |
-
-</div>
-<br>
-🧰 TECH STACK
-
-<div align="center">
-
-🔌 EMBEDDED & HARDWARE
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-
-<br>
-
-ESP32 · Arduino · I2C · UART · GPIO · MQ135 · DHT11 · DHT22 · WS2812B
+<img src="https://img.shields.io/badge/CURRENT-RISC--V-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLORING-FPGA-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INTEREST-DSP-FF4D6D?style=for-the-badge"/>
 
 <br><br>
 
-🧩 DIGITAL DESIGN & HDL
+`Processor Architecture` &nbsp;•&nbsp;
+`RTL Design` &nbsp;•&nbsp;
+`Digital Logic` &nbsp;•&nbsp;
+`Embedded Systems`
 
-Verilog · VHDL · RTL · Digital Logic · RISC-V · Processor Datapaths
+</div>
+
+---
+
+# 🧰 TECH STACK
+
+<div align="center">
+
+### 🔌 EMBEDDED & HARDWARE
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
 
 <br><br>
 
-💻 PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/I2C-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UART-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
 
 <br><br>
 
-🌐 SOFTWARE & BACKEND
+### 🧩 DIGITAL DESIGN & HDL
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb,firebase,git" />
+<img src="https://img.shields.io/badge/VERILOG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VHDL-FFB000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RTL-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RISC--V-FF4D6D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FPGA-222222?style=for-the-badge"/>
 
-<br>
+<br><br>
 
-MQTT · REST APIs · Firebase · MongoDB
+### 💻 PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/>
+
+<br><br>
+
+### 🌐 SOFTWARE & BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb,firebase,git"/>
 
 </div>
 
+---
 
-🔬 PROJECT LAB
+# 🔬 PROJECT LAB
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-💡 ESP32 AMBILIGHT
+### 💡 ESP32 AMBILIGHT
 
-Real-time ambient lighting system
+**Real-time screen-synchronized lighting**
 
-A DIY screen-synchronized lighting system using an ESP32 and addressable LEDs.
+A custom 32-LED ambient lighting system built around ESP32, WS2812B, WLED and HyperHDR.
 
-Stack
+**TECH**
 
-ESP32 WS2812B HyperHDR WLED
+`ESP32` `WS2812B` `WLED` `HyperHDR`
 
-Focus
+**FOCUS**
 
-Real-time control |LED mapping |Embedded communication
+Real-time control • LED mapping • Wi-Fi/UDP • Embedded systems
 
 </td>
 
 <td width="50%" valign="top">
 
-🌬️ AIRVANA
+### 🌬️ AIRVANA
 
-Indoor air-quality monitoring system
+**IoT Indoor Air-Quality Platform**
 
-IoT platform combining sensor data, outdoor environmental data and plant recommendations.
+A sensor-driven system combining indoor measurements, outdoor environmental data and plant recommendations.
 
-Stack
+**TECH**
 
-ESP32 MQ135 DHT11 MQTT Node.js MongoDB
+`ESP32` `MQ135` `DHT11` `MQTT` `Node.js` `MongoDB`
 
-Focus
+**FOCUS**
 
-Sensor systems |IoT |Backend |Mobile integration
+Sensors • IoT • Backend • Mobile integration
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-🔧 DIGITAL MOSFET TESTER
+### 🔧 DIGITAL MOSFET TESTER
 
-Hardware testing & measurement
+**Hardware testing & measurement**
 
-A hardware project focused on testing and characterizing MOSFET behavior.
+A practical electronics project for identifying MOSFET types and observing switching behaviour.
 
-Stack
+**TECH**
 
-Arduino MOSFET Measurement
+`MOSFET` `Arduino` `LED` `Measurement`
 
-Focus
+**FOCUS**
 
-Digital electronics |Hardware instrumentation
+Digital electronics • Hardware testing • Circuit debugging
 
 </td>
 
 <td width="50%" valign="top">
 
-⚡ WIRELESS POWER TRANSFER
+### ⚡ WIRELESS POWER TRANSFER
 
-Experimental inductive power system
+**Experimental inductive power system**
 
-Exploring wireless energy transfer through inductive coupling.
+An experimental system exploring wireless energy transfer through inductive coupling.
 
-Stack
+**TECH**
 
-Coils Oscillator Power Electronics
+`Coils` `Oscillator` `Power Electronics`
 
-Focus
+**FOCUS**
 
-Hardware prototyping |Power transfer
+Hardware prototyping • Inductive coupling • Power transfer
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-☀️ SOLAR TRACKING CAR
+### ☀️ SOLAR TRACKING CAR
 
-Automatic solar tracking platform
+**Automatic solar tracking platform**
 
-Light-dependent tracking mechanism for maintaining alignment with a light source.
+A light-following vehicle using sensors and servo-controlled alignment.
 
-Stack
+**TECH**
 
-Arduino |LDR |Servo DC Motors |L293D
+`Arduino` `LDR` `Servo` `DC Motors` `L293D`
+
+**FOCUS**
+
+Embedded control • Sensors • Mechatronics
 
 </td>
 
 <td width="50%" valign="top">
 
-🌍 WORLD EXPLORER
+### 🌍 WORLD EXPLORER
 
-Interactive web project
+**Interactive web project**
 
-Web-based exploration interface built as part of my software development work.
+A web-based exploration interface developed as part of my software development work.
 
-Stack
+**TECH**
 
-HTML |CSS |JavaScript
+`HTML` `CSS` `JavaScript`
+
+**FOCUS**
+
+Frontend development • UI • Interactive systems
 
 </td>
+
 </tr>
 </table>
 
-🧪 ENGINEERING_INTERESTS
+---
+
+# 🧪 ENGINEERING INTERESTS
 
 <div align="center">
 
-<table>
-<tr>
-<th>DOMAIN</th>
-<th>EXPLORING</th>
-</tr>
-
-<tr>
-<td>🔌 <b>Embedded</b></td>
-<td>Microcontrollers · Sensors · Interfaces · Real-time Systems</td>
-</tr>
-
-<tr>
-<td>🧩 <b>Digital</b></td>
-<td>RTL · Logic Design · HDL · FPGA</td>
-</tr>
-
-<tr>
-<td>🧬 <b>Processors</b></td>
-<td>RISC-V · Datapaths · Control · Pipelining</td>
-</tr>
-
-<tr>
-<td>📡 <b>IoT</b></td>
-<td>MQTT · Sensor Networks · Cloud Integration</td>
-</tr>
-
-<tr>
-<td>📈 <b>DSP</b></td>
-<td>Digital Filters · Signal Processing · Embedded DSP</td>
-</tr>
-
-<tr>
-<td>⚙️ <b>Hardware</b></td>
-<td>Prototyping · Measurement · Hardware/Software Co-design</td>
-</tr>
-
-</table>
+| DOMAIN | CURRENT EXPLORATION |
+|:---:|:---|
+| 🔌 **Embedded** | Microcontrollers · Sensors · Interfaces · Real-time Systems |
+| 🧩 **Digital Design** | RTL · Logic Design · HDL · FPGA |
+| 🧬 **Processors** | RISC-V · Datapaths · Control · Pipelining |
+| 📡 **IoT** | MQTT · Sensor Networks · Cloud Integration |
+| 📈 **DSP** | Digital Filters · Signal Processing · Embedded DSP |
+| ⚙️ **Hardware** | Prototyping · Measurement · Hardware/Software Co-design |
 
 </div>
 
-🖥️ ENGINEERING_WORKFLOW
+---
+
+# 🖥️ ENGINEERING WORKFLOW
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">💭<br><b>PROBLEM</b></td>
-<td>→</td>
-<td align="center">📐<br><b>DESIGN</b></td>
-<td>→</td>
-<td align="center">⚙️<br><b>BUILD</b></td>
-<td>→</td>
-<td align="center">🐛<br><b>DEBUG</b></td>
-<td>→</td>
-<td align="center">📊<br><b>MEASURE</b></td>
-<td>→</td>
-<td align="center">🔁<br><b>ITERATE</b></td>
-</tr>
-</table>
+### 💭 PROBLEM
+↓
+### 📐 DESIGN
+↓
+### ⚙️ BUILD
+↓
+### 🐛 DEBUG
+↓
+### 📊 MEASURE
+↓
+### 🔁 ITERATE
 
 <br>
 
-HARDWARE + FIRMWARE + RTL → WORKING SYSTEM
+<img src="https://img.shields.io/badge/HARDWARE-00E5FF?style=for-the-badge"/>
++
+<img src="https://img.shields.io/badge/FIRMWARE-7C3AED?style=for-the-badge"/>
++
+<img src="https://img.shields.io/badge/RTL-FF4D6D?style=for-the-badge"/>
+=
+<img src="https://img.shields.io/badge/WORKING_SYSTEM-FFB000?style=for-the-badge"/>
 
 </div>
 
+---
+
 <div align="center">
 
-BUILD • DEBUG • MEASURE • ITERATE
+## 🚀 BUILDING. DEBUGGING. LEARNING.
+
+`Embedded Systems` · `Digital Design` · `RISC-V` · `IoT` · `Hardware`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D6D,50:7C3AED,100:00E5FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D6D,50:7C3AED,100:00E5FF&height=110&section=footer"/>
 
 </div>
